@@ -1,0 +1,12 @@
+C:\gloStream\erp\HealthAccount\AccountPlus.BusinessLogic\bin\Release\HealthAccount.BusinessLogic.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.BusinessLogic\bin\Release\HealthAccount.BusinessLogic.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.BusinessLogic\bin\Release\HealthAccount.Configurations.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.BusinessLogic\bin\Release\HealthAccount.DataAccess.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.BusinessLogic\bin\Release\HealthAccount.Formatting.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.BusinessLogic\bin\Release\log4net.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.BusinessLogic\bin\Release\HealthAccount.Configurations.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.BusinessLogic\bin\Release\HealthAccount.DataAccess.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.BusinessLogic\bin\Release\HealthAccount.Formatting.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.BusinessLogic\obj\Release\HealthAccount.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\gloStream\erp\HealthAccount\AccountPlus.BusinessLogic\obj\Release\HealthAccount.BusinessLogic.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.BusinessLogic\obj\Release\HealthAccount.BusinessLogic.pdb

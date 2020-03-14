@@ -1,0 +1,1130 @@
+﻿namespace iHealthAccount.Application.Details
+{
+    partial class InvoiceDetails
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(InvoiceDetails));
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.importToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.exportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.settingsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
+            this.closeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.editToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.usersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.profileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator4 = new System.Windows.Forms.ToolStripSeparator();
+            this.invoiceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reciptToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reciptWalkInToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.expenseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.windowToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.procedureToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.paymentToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.customerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.expenseTypeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.aboutAppToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.supportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
+            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator6 = new System.Windows.Forms.ToolStripSeparator();
+            this.toolStripButton3 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton4 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator7 = new System.Windows.Forms.ToolStripSeparator();
+            this.toolStripButton6 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton5 = new System.Windows.Forms.ToolStripButton();
+            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.toolStripStatusLabelLoginDate = new System.Windows.Forms.ToolStripStatusLabel();
+            this.toolStripStatusLabelDate = new System.Windows.Forms.ToolStripStatusLabel();
+            this.toolStripStatusLabelUserName = new System.Windows.Forms.ToolStripStatusLabel();
+            this.labelMessage = new System.Windows.Forms.ToolStripStatusLabel();
+            this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.textBoxAmt10 = new System.Windows.Forms.TextBox();
+            this.textBoxAmt9 = new System.Windows.Forms.TextBox();
+            this.textBoxAmt8 = new System.Windows.Forms.TextBox();
+            this.textBoxAmt7 = new System.Windows.Forms.TextBox();
+            this.textBoxAmt6 = new System.Windows.Forms.TextBox();
+            this.textBoxAmt5 = new System.Windows.Forms.TextBox();
+            this.textBoxAmt4 = new System.Windows.Forms.TextBox();
+            this.textBoxAmt3 = new System.Windows.Forms.TextBox();
+            this.textBoxAmt2 = new System.Windows.Forms.TextBox();
+            this.textBoxAmt1 = new System.Windows.Forms.TextBox();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.textBoxProc10 = new System.Windows.Forms.TextBox();
+            this.textBoxProc9 = new System.Windows.Forms.TextBox();
+            this.textBoxProc8 = new System.Windows.Forms.TextBox();
+            this.textBoxProc7 = new System.Windows.Forms.TextBox();
+            this.textBoxProc6 = new System.Windows.Forms.TextBox();
+            this.textBoxProc5 = new System.Windows.Forms.TextBox();
+            this.textBoxProc4 = new System.Windows.Forms.TextBox();
+            this.textBoxProc3 = new System.Windows.Forms.TextBox();
+            this.textBoxProc2 = new System.Windows.Forms.TextBox();
+            this.textBoxProc1 = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.buttonExport = new System.Windows.Forms.Button();
+            this.buttonImport = new System.Windows.Forms.Button();
+            this.buttonDupe = new System.Windows.Forms.Button();
+            this.buttonClear = new System.Windows.Forms.Button();
+            this.buttonDelete = new System.Windows.Forms.Button();
+            this.buttonUpdate = new System.Windows.Forms.Button();
+            this.buttonAdd = new System.Windows.Forms.Button();
+            this.textBoxFirstName = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.dataGridViewInv = new System.Windows.Forms.DataGridView();
+            this.CustomerId = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.UserId = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.CustomerCode = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.FirstName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.LastName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EnteredBy = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            this.menuStrip1.SuspendLayout();
+            this.toolStrip1.SuspendLayout();
+            this.statusStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
+            this.splitContainer1.Panel1.SuspendLayout();
+            this.splitContainer1.Panel2.SuspendLayout();
+            this.splitContainer1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
+            this.groupBox4.SuspendLayout();
+            this.groupBox3.SuspendLayout();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewInv)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.menuStrip1.Font = new System.Drawing.Font("Century Gothic", 9F);
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.fileToolStripMenuItem,
+            this.editToolStripMenuItem,
+            this.windowToolStripMenuItem,
+            this.helpToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(7, 3, 0, 3);
+            this.menuStrip1.Size = new System.Drawing.Size(1014, 27);
+            this.menuStrip1.TabIndex = 0;
+            // 
+            // fileToolStripMenuItem
+            // 
+            this.fileToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.importToolStripMenuItem,
+            this.exportToolStripMenuItem,
+            this.toolStripSeparator1,
+            this.settingsToolStripMenuItem,
+            this.toolStripSeparator2,
+            this.closeToolStripMenuItem});
+            this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(40, 21);
+            this.fileToolStripMenuItem.Text = "File";
+            // 
+            // importToolStripMenuItem
+            // 
+            this.importToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.importToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("importToolStripMenuItem.Image")));
+            this.importToolStripMenuItem.Name = "importToolStripMenuItem";
+            this.importToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.importToolStripMenuItem.Text = "Import";
+            this.importToolStripMenuItem.Click += new System.EventHandler(this.importToolStripMenuItem_Click);
+            // 
+            // exportToolStripMenuItem
+            // 
+            this.exportToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.exportToolStripMenuItem.Image = global::iHealthAccount.Application.Properties.Resources.box_out;
+            this.exportToolStripMenuItem.Name = "exportToolStripMenuItem";
+            this.exportToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.exportToolStripMenuItem.Text = "Export";
+            this.exportToolStripMenuItem.Click += new System.EventHandler(this.exportToolStripMenuItem_Click);
+            // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(121, 6);
+            // 
+            // settingsToolStripMenuItem
+            // 
+            this.settingsToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.settingsToolStripMenuItem.Name = "settingsToolStripMenuItem";
+            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.settingsToolStripMenuItem.Text = "Settings";
+            this.settingsToolStripMenuItem.Click += new System.EventHandler(this.settingsToolStripMenuItem_Click);
+            // 
+            // toolStripSeparator2
+            // 
+            this.toolStripSeparator2.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.toolStripSeparator2.Name = "toolStripSeparator2";
+            this.toolStripSeparator2.Size = new System.Drawing.Size(121, 6);
+            // 
+            // closeToolStripMenuItem
+            // 
+            this.closeToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.closeToolStripMenuItem.ForeColor = System.Drawing.Color.Black;
+            this.closeToolStripMenuItem.Name = "closeToolStripMenuItem";
+            this.closeToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.closeToolStripMenuItem.Text = "Close";
+            this.closeToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
+            // 
+            // editToolStripMenuItem
+            // 
+            this.editToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.editToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.usersToolStripMenuItem,
+            this.profileToolStripMenuItem,
+            this.toolStripSeparator4,
+            this.invoiceToolStripMenuItem,
+            this.reciptToolStripMenuItem,
+            this.reciptWalkInToolStripMenuItem,
+            this.expenseToolStripMenuItem});
+            this.editToolStripMenuItem.Name = "editToolStripMenuItem";
+            this.editToolStripMenuItem.Size = new System.Drawing.Size(42, 21);
+            this.editToolStripMenuItem.Text = "Edit";
+            // 
+            // usersToolStripMenuItem
+            // 
+            this.usersToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.usersToolStripMenuItem.Image = global::iHealthAccount.Application.Properties.Resources.user_id_icon;
+            this.usersToolStripMenuItem.Name = "usersToolStripMenuItem";
+            this.usersToolStripMenuItem.Size = new System.Drawing.Size(161, 22);
+            this.usersToolStripMenuItem.Text = "Users";
+            this.usersToolStripMenuItem.Click += new System.EventHandler(this.usersToolStripMenuItem_Click);
+            // 
+            // profileToolStripMenuItem
+            // 
+            this.profileToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.profileToolStripMenuItem.Image = global::iHealthAccount.Application.Properties.Resources.profile_icon;
+            this.profileToolStripMenuItem.Name = "profileToolStripMenuItem";
+            this.profileToolStripMenuItem.Size = new System.Drawing.Size(161, 22);
+            this.profileToolStripMenuItem.Text = "Profile";
+            this.profileToolStripMenuItem.Click += new System.EventHandler(this.profileToolStripMenuItem_Click);
+            // 
+            // toolStripSeparator4
+            // 
+            this.toolStripSeparator4.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.toolStripSeparator4.Name = "toolStripSeparator4";
+            this.toolStripSeparator4.Size = new System.Drawing.Size(158, 6);
+            // 
+            // invoiceToolStripMenuItem
+            // 
+            this.invoiceToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.invoiceToolStripMenuItem.Name = "invoiceToolStripMenuItem";
+            this.invoiceToolStripMenuItem.Size = new System.Drawing.Size(161, 22);
+            this.invoiceToolStripMenuItem.Text = "Invoice";
+            this.invoiceToolStripMenuItem.Click += new System.EventHandler(this.invoiceToolStripMenuItem_Click);
+            // 
+            // reciptToolStripMenuItem
+            // 
+            this.reciptToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.reciptToolStripMenuItem.Name = "reciptToolStripMenuItem";
+            this.reciptToolStripMenuItem.Size = new System.Drawing.Size(161, 22);
+            this.reciptToolStripMenuItem.Text = "Recipt";
+            this.reciptToolStripMenuItem.Click += new System.EventHandler(this.reciptToolStripMenuItem_Click);
+            // 
+            // reciptWalkInToolStripMenuItem
+            // 
+            this.reciptWalkInToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.reciptWalkInToolStripMenuItem.Name = "reciptWalkInToolStripMenuItem";
+            this.reciptWalkInToolStripMenuItem.Size = new System.Drawing.Size(161, 22);
+            this.reciptWalkInToolStripMenuItem.Text = "Recipt Walk In";
+            this.reciptWalkInToolStripMenuItem.Click += new System.EventHandler(this.reciptWalkInToolStripMenuItem_Click);
+            // 
+            // expenseToolStripMenuItem
+            // 
+            this.expenseToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.expenseToolStripMenuItem.Name = "expenseToolStripMenuItem";
+            this.expenseToolStripMenuItem.Size = new System.Drawing.Size(161, 22);
+            this.expenseToolStripMenuItem.Text = "Expense";
+            this.expenseToolStripMenuItem.Click += new System.EventHandler(this.expenseToolStripMenuItem_Click);
+            // 
+            // windowToolStripMenuItem
+            // 
+            this.windowToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.windowToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.procedureToolStripMenuItem,
+            this.paymentToolStripMenuItem,
+            this.customerToolStripMenuItem,
+            this.expenseTypeToolStripMenuItem});
+            this.windowToolStripMenuItem.Name = "windowToolStripMenuItem";
+            this.windowToolStripMenuItem.Size = new System.Drawing.Size(69, 21);
+            this.windowToolStripMenuItem.Text = "Window";
+            // 
+            // procedureToolStripMenuItem
+            // 
+            this.procedureToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.procedureToolStripMenuItem.Name = "procedureToolStripMenuItem";
+            this.procedureToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.procedureToolStripMenuItem.Text = "Procedure";
+            this.procedureToolStripMenuItem.Click += new System.EventHandler(this.procedureToolStripMenuItem_Click);
+            // 
+            // paymentToolStripMenuItem
+            // 
+            this.paymentToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.paymentToolStripMenuItem.Name = "paymentToolStripMenuItem";
+            this.paymentToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.paymentToolStripMenuItem.Text = "Payment";
+            this.paymentToolStripMenuItem.Click += new System.EventHandler(this.paymentToolStripMenuItem_Click);
+            // 
+            // customerToolStripMenuItem
+            // 
+            this.customerToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.customerToolStripMenuItem.Name = "customerToolStripMenuItem";
+            this.customerToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.customerToolStripMenuItem.Text = "Customer";
+            this.customerToolStripMenuItem.Click += new System.EventHandler(this.customerToolStripMenuItem_Click);
+            // 
+            // expenseTypeToolStripMenuItem
+            // 
+            this.expenseTypeToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.expenseTypeToolStripMenuItem.Name = "expenseTypeToolStripMenuItem";
+            this.expenseTypeToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
+            this.expenseTypeToolStripMenuItem.Text = "Expense Type";
+            this.expenseTypeToolStripMenuItem.Click += new System.EventHandler(this.expenseTypeToolStripMenuItem_Click);
+            // 
+            // helpToolStripMenuItem
+            // 
+            this.helpToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.helpToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.aboutAppToolStripMenuItem,
+            this.supportToolStripMenuItem});
+            this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(47, 21);
+            this.helpToolStripMenuItem.Text = "Help";
+            // 
+            // aboutAppToolStripMenuItem
+            // 
+            this.aboutAppToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.aboutAppToolStripMenuItem.Image = global::iHealthAccount.Application.Properties.Resources.sign_info_icon;
+            this.aboutAppToolStripMenuItem.Name = "aboutAppToolStripMenuItem";
+            this.aboutAppToolStripMenuItem.Size = new System.Drawing.Size(141, 22);
+            this.aboutAppToolStripMenuItem.Text = "About App";
+            this.aboutAppToolStripMenuItem.Click += new System.EventHandler(this.aboutAppToolStripMenuItem_Click);
+            // 
+            // supportToolStripMenuItem
+            // 
+            this.supportToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.supportToolStripMenuItem.Image = global::iHealthAccount.Application.Properties.Resources.bubbles_icon;
+            this.supportToolStripMenuItem.Name = "supportToolStripMenuItem";
+            this.supportToolStripMenuItem.Size = new System.Drawing.Size(141, 22);
+            this.supportToolStripMenuItem.Text = "Support";
+            this.supportToolStripMenuItem.Click += new System.EventHandler(this.supportToolStripMenuItem_Click);
+            // 
+            // toolStrip1
+            // 
+            this.toolStrip1.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.toolStrip1.Font = new System.Drawing.Font("Century Gothic", 9F);
+            this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripButton1,
+            this.toolStripButton2,
+            this.toolStripSeparator6,
+            this.toolStripButton3,
+            this.toolStripButton4,
+            this.toolStripSeparator7,
+            this.toolStripButton6,
+            this.toolStripButton5});
+            this.toolStrip1.Location = new System.Drawing.Point(0, 27);
+            this.toolStrip1.Name = "toolStrip1";
+            this.toolStrip1.Size = new System.Drawing.Size(1014, 25);
+            this.toolStrip1.TabIndex = 1;
+            this.toolStrip1.Text = "toolStrip1";
+            // 
+            // toolStripButton1
+            // 
+            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton1.Image = global::iHealthAccount.Application.Properties.Resources.box_in;
+            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton1.Name = "toolStripButton1";
+            this.toolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton1.Text = "Import Database";
+            // 
+            // toolStripButton2
+            // 
+            this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton2.Image = global::iHealthAccount.Application.Properties.Resources.box_out;
+            this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton2.Name = "toolStripButton2";
+            this.toolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton2.Text = "Export Database";
+            // 
+            // toolStripSeparator6
+            // 
+            this.toolStripSeparator6.Name = "toolStripSeparator6";
+            this.toolStripSeparator6.Size = new System.Drawing.Size(6, 25);
+            // 
+            // toolStripButton3
+            // 
+            this.toolStripButton3.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton3.Image = global::iHealthAccount.Application.Properties.Resources.profile_icon;
+            this.toolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton3.Name = "toolStripButton3";
+            this.toolStripButton3.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton3.Text = "Edit Profile";
+            // 
+            // toolStripButton4
+            // 
+            this.toolStripButton4.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton4.Image = global::iHealthAccount.Application.Properties.Resources.user_id_icon;
+            this.toolStripButton4.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton4.Name = "toolStripButton4";
+            this.toolStripButton4.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton4.Text = "Edit Users";
+            // 
+            // toolStripSeparator7
+            // 
+            this.toolStripSeparator7.Name = "toolStripSeparator7";
+            this.toolStripSeparator7.Size = new System.Drawing.Size(6, 25);
+            // 
+            // toolStripButton6
+            // 
+            this.toolStripButton6.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton6.Image = global::iHealthAccount.Application.Properties.Resources.sign_info_icon;
+            this.toolStripButton6.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton6.Name = "toolStripButton6";
+            this.toolStripButton6.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton6.Text = "About App";
+            // 
+            // toolStripButton5
+            // 
+            this.toolStripButton5.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton5.Image = global::iHealthAccount.Application.Properties.Resources.bubbles_icon;
+            this.toolStripButton5.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton5.Name = "toolStripButton5";
+            this.toolStripButton5.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton5.Text = "Contact Support";
+            // 
+            // statusStrip1
+            // 
+            this.statusStrip1.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.statusStrip1.Font = new System.Drawing.Font("Century Gothic", 9F);
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripStatusLabelLoginDate,
+            this.toolStripStatusLabelDate,
+            this.toolStripStatusLabelUserName,
+            this.labelMessage});
+            this.statusStrip1.Location = new System.Drawing.Point(0, 599);
+            this.statusStrip1.Name = "statusStrip1";
+            this.statusStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.ManagerRenderMode;
+            this.statusStrip1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.statusStrip1.Size = new System.Drawing.Size(1014, 22);
+            this.statusStrip1.TabIndex = 2;
+            this.statusStrip1.Text = "statusStrip1";
+            // 
+            // toolStripStatusLabelLoginDate
+            // 
+            this.toolStripStatusLabelLoginDate.Name = "toolStripStatusLabelLoginDate";
+            this.toolStripStatusLabelLoginDate.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.toolStripStatusLabelLoginDate.Size = new System.Drawing.Size(61, 17);
+            this.toolStripStatusLabelLoginDate.Text = "Lastlogin";
+            // 
+            // toolStripStatusLabelDate
+            // 
+            this.toolStripStatusLabelDate.Name = "toolStripStatusLabelDate";
+            this.toolStripStatusLabelDate.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.toolStripStatusLabelDate.Size = new System.Drawing.Size(38, 17);
+            this.toolStripStatusLabelDate.Text = "Date";
+            // 
+            // toolStripStatusLabelUserName
+            // 
+            this.toolStripStatusLabelUserName.Name = "toolStripStatusLabelUserName";
+            this.toolStripStatusLabelUserName.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.toolStripStatusLabelUserName.Size = new System.Drawing.Size(67, 17);
+            this.toolStripStatusLabelUserName.Text = "Username";
+            // 
+            // labelMessage
+            // 
+            this.labelMessage.Name = "labelMessage";
+            this.labelMessage.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.labelMessage.Size = new System.Drawing.Size(0, 17);
+            // 
+            // splitContainer1
+            // 
+            this.splitContainer1.BackColor = System.Drawing.SystemColors.Control;
+            this.splitContainer1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainer1.Location = new System.Drawing.Point(0, 52);
+            this.splitContainer1.Name = "splitContainer1";
+            // 
+            // splitContainer1.Panel1
+            // 
+            this.splitContainer1.Panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(150)))), ((int)(((byte)(223)))));
+            this.splitContainer1.Panel1.Controls.Add(this.groupBox2);
+            this.splitContainer1.Panel1MinSize = 370;
+            // 
+            // splitContainer1.Panel2
+            // 
+            this.splitContainer1.Panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(150)))), ((int)(((byte)(223)))));
+            this.splitContainer1.Panel2.Controls.Add(this.groupBox1);
+            this.splitContainer1.Panel2MinSize = 400;
+            this.splitContainer1.Size = new System.Drawing.Size(1014, 547);
+            this.splitContainer1.SplitterDistance = 370;
+            this.splitContainer1.TabIndex = 28;
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.BackColor = System.Drawing.Color.White;
+            this.groupBox2.Controls.Add(this.dateTimePicker2);
+            this.groupBox2.Controls.Add(this.dateTimePicker1);
+            this.groupBox2.Controls.Add(this.label5);
+            this.groupBox2.Controls.Add(this.label3);
+            this.groupBox2.Controls.Add(this.groupBox4);
+            this.groupBox2.Controls.Add(this.groupBox3);
+            this.groupBox2.Controls.Add(this.label4);
+            this.groupBox2.Controls.Add(this.comboBox1);
+            this.groupBox2.Controls.Add(this.buttonExport);
+            this.groupBox2.Controls.Add(this.buttonImport);
+            this.groupBox2.Controls.Add(this.buttonDupe);
+            this.groupBox2.Controls.Add(this.buttonClear);
+            this.groupBox2.Controls.Add(this.buttonDelete);
+            this.groupBox2.Controls.Add(this.buttonUpdate);
+            this.groupBox2.Controls.Add(this.buttonAdd);
+            this.groupBox2.Controls.Add(this.textBoxFirstName);
+            this.groupBox2.Controls.Add(this.label2);
+            this.groupBox2.Controls.Add(this.label1);
+            this.groupBox2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupBox2.Location = new System.Drawing.Point(0, 0);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(368, 545);
+            this.groupBox2.TabIndex = 2;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Enter";
+            // 
+            // dateTimePicker2
+            // 
+            this.dateTimePicker2.Location = new System.Drawing.Point(162, 418);
+            this.dateTimePicker2.Name = "dateTimePicker2";
+            this.dateTimePicker2.Size = new System.Drawing.Size(200, 22);
+            this.dateTimePicker2.TabIndex = 39;
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.Location = new System.Drawing.Point(162, 390);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(200, 22);
+            this.dateTimePicker1.TabIndex = 38;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(67, 423);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(90, 17);
+            this.label5.TabIndex = 37;
+            this.label5.Text = "Service Date:";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(67, 395);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(89, 17);
+            this.label3.TabIndex = 36;
+            this.label3.Text = "Invoice Date:";
+            // 
+            // groupBox4
+            // 
+            this.groupBox4.Controls.Add(this.textBoxAmt10);
+            this.groupBox4.Controls.Add(this.textBoxAmt9);
+            this.groupBox4.Controls.Add(this.textBoxAmt8);
+            this.groupBox4.Controls.Add(this.textBoxAmt7);
+            this.groupBox4.Controls.Add(this.textBoxAmt6);
+            this.groupBox4.Controls.Add(this.textBoxAmt5);
+            this.groupBox4.Controls.Add(this.textBoxAmt4);
+            this.groupBox4.Controls.Add(this.textBoxAmt3);
+            this.groupBox4.Controls.Add(this.textBoxAmt2);
+            this.groupBox4.Controls.Add(this.textBoxAmt1);
+            this.groupBox4.Location = new System.Drawing.Point(192, 77);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(170, 307);
+            this.groupBox4.TabIndex = 35;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "Amounts";
+            // 
+            // textBoxAmt10
+            // 
+            this.textBoxAmt10.Location = new System.Drawing.Point(6, 273);
+            this.textBoxAmt10.Name = "textBoxAmt10";
+            this.textBoxAmt10.Size = new System.Drawing.Size(158, 22);
+            this.textBoxAmt10.TabIndex = 9;
+            // 
+            // textBoxAmt9
+            // 
+            this.textBoxAmt9.Location = new System.Drawing.Point(6, 245);
+            this.textBoxAmt9.Name = "textBoxAmt9";
+            this.textBoxAmt9.Size = new System.Drawing.Size(158, 22);
+            this.textBoxAmt9.TabIndex = 8;
+            // 
+            // textBoxAmt8
+            // 
+            this.textBoxAmt8.Location = new System.Drawing.Point(6, 217);
+            this.textBoxAmt8.Name = "textBoxAmt8";
+            this.textBoxAmt8.Size = new System.Drawing.Size(158, 22);
+            this.textBoxAmt8.TabIndex = 7;
+            // 
+            // textBoxAmt7
+            // 
+            this.textBoxAmt7.Location = new System.Drawing.Point(6, 189);
+            this.textBoxAmt7.Name = "textBoxAmt7";
+            this.textBoxAmt7.Size = new System.Drawing.Size(158, 22);
+            this.textBoxAmt7.TabIndex = 6;
+            // 
+            // textBoxAmt6
+            // 
+            this.textBoxAmt6.Location = new System.Drawing.Point(6, 161);
+            this.textBoxAmt6.Name = "textBoxAmt6";
+            this.textBoxAmt6.Size = new System.Drawing.Size(158, 22);
+            this.textBoxAmt6.TabIndex = 5;
+            // 
+            // textBoxAmt5
+            // 
+            this.textBoxAmt5.Location = new System.Drawing.Point(6, 133);
+            this.textBoxAmt5.Name = "textBoxAmt5";
+            this.textBoxAmt5.Size = new System.Drawing.Size(158, 22);
+            this.textBoxAmt5.TabIndex = 4;
+            // 
+            // textBoxAmt4
+            // 
+            this.textBoxAmt4.Location = new System.Drawing.Point(6, 105);
+            this.textBoxAmt4.Name = "textBoxAmt4";
+            this.textBoxAmt4.Size = new System.Drawing.Size(158, 22);
+            this.textBoxAmt4.TabIndex = 3;
+            // 
+            // textBoxAmt3
+            // 
+            this.textBoxAmt3.Location = new System.Drawing.Point(6, 77);
+            this.textBoxAmt3.Name = "textBoxAmt3";
+            this.textBoxAmt3.Size = new System.Drawing.Size(158, 22);
+            this.textBoxAmt3.TabIndex = 2;
+            // 
+            // textBoxAmt2
+            // 
+            this.textBoxAmt2.Location = new System.Drawing.Point(6, 49);
+            this.textBoxAmt2.Name = "textBoxAmt2";
+            this.textBoxAmt2.Size = new System.Drawing.Size(158, 22);
+            this.textBoxAmt2.TabIndex = 1;
+            // 
+            // textBoxAmt1
+            // 
+            this.textBoxAmt1.Location = new System.Drawing.Point(6, 21);
+            this.textBoxAmt1.Name = "textBoxAmt1";
+            this.textBoxAmt1.Size = new System.Drawing.Size(158, 22);
+            this.textBoxAmt1.TabIndex = 0;
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.textBoxProc10);
+            this.groupBox3.Controls.Add(this.textBoxProc9);
+            this.groupBox3.Controls.Add(this.textBoxProc8);
+            this.groupBox3.Controls.Add(this.textBoxProc7);
+            this.groupBox3.Controls.Add(this.textBoxProc6);
+            this.groupBox3.Controls.Add(this.textBoxProc5);
+            this.groupBox3.Controls.Add(this.textBoxProc4);
+            this.groupBox3.Controls.Add(this.textBoxProc3);
+            this.groupBox3.Controls.Add(this.textBoxProc2);
+            this.groupBox3.Controls.Add(this.textBoxProc1);
+            this.groupBox3.Location = new System.Drawing.Point(12, 77);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(170, 307);
+            this.groupBox3.TabIndex = 34;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Procedures";
+            // 
+            // textBoxProc10
+            // 
+            this.textBoxProc10.Location = new System.Drawing.Point(6, 273);
+            this.textBoxProc10.Name = "textBoxProc10";
+            this.textBoxProc10.Size = new System.Drawing.Size(158, 22);
+            this.textBoxProc10.TabIndex = 9;
+            // 
+            // textBoxProc9
+            // 
+            this.textBoxProc9.Location = new System.Drawing.Point(6, 245);
+            this.textBoxProc9.Name = "textBoxProc9";
+            this.textBoxProc9.Size = new System.Drawing.Size(158, 22);
+            this.textBoxProc9.TabIndex = 8;
+            // 
+            // textBoxProc8
+            // 
+            this.textBoxProc8.Location = new System.Drawing.Point(6, 217);
+            this.textBoxProc8.Name = "textBoxProc8";
+            this.textBoxProc8.Size = new System.Drawing.Size(158, 22);
+            this.textBoxProc8.TabIndex = 7;
+            // 
+            // textBoxProc7
+            // 
+            this.textBoxProc7.Location = new System.Drawing.Point(6, 189);
+            this.textBoxProc7.Name = "textBoxProc7";
+            this.textBoxProc7.Size = new System.Drawing.Size(158, 22);
+            this.textBoxProc7.TabIndex = 6;
+            // 
+            // textBoxProc6
+            // 
+            this.textBoxProc6.Location = new System.Drawing.Point(6, 161);
+            this.textBoxProc6.Name = "textBoxProc6";
+            this.textBoxProc6.Size = new System.Drawing.Size(158, 22);
+            this.textBoxProc6.TabIndex = 5;
+            // 
+            // textBoxProc5
+            // 
+            this.textBoxProc5.Location = new System.Drawing.Point(6, 133);
+            this.textBoxProc5.Name = "textBoxProc5";
+            this.textBoxProc5.Size = new System.Drawing.Size(158, 22);
+            this.textBoxProc5.TabIndex = 4;
+            // 
+            // textBoxProc4
+            // 
+            this.textBoxProc4.Location = new System.Drawing.Point(6, 105);
+            this.textBoxProc4.Name = "textBoxProc4";
+            this.textBoxProc4.Size = new System.Drawing.Size(158, 22);
+            this.textBoxProc4.TabIndex = 3;
+            // 
+            // textBoxProc3
+            // 
+            this.textBoxProc3.Location = new System.Drawing.Point(6, 77);
+            this.textBoxProc3.Name = "textBoxProc3";
+            this.textBoxProc3.Size = new System.Drawing.Size(158, 22);
+            this.textBoxProc3.TabIndex = 2;
+            // 
+            // textBoxProc2
+            // 
+            this.textBoxProc2.Location = new System.Drawing.Point(6, 49);
+            this.textBoxProc2.Name = "textBoxProc2";
+            this.textBoxProc2.Size = new System.Drawing.Size(158, 22);
+            this.textBoxProc2.TabIndex = 1;
+            // 
+            // textBoxProc1
+            // 
+            this.textBoxProc1.Location = new System.Drawing.Point(6, 21);
+            this.textBoxProc1.Name = "textBoxProc1";
+            this.textBoxProc1.Size = new System.Drawing.Size(158, 22);
+            this.textBoxProc1.TabIndex = 0;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(247, 24);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(44, 17);
+            this.label4.TabIndex = 33;
+            this.label4.Text = "Code:";
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(121, 18);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(120, 25);
+            this.comboBox1.TabIndex = 32;
+            // 
+            // buttonExport
+            // 
+            this.buttonExport.Location = new System.Drawing.Point(297, 487);
+            this.buttonExport.Name = "buttonExport";
+            this.buttonExport.Size = new System.Drawing.Size(65, 25);
+            this.buttonExport.TabIndex = 31;
+            this.buttonExport.Text = "&Export";
+            this.buttonExport.UseVisualStyleBackColor = true;
+            this.buttonExport.Click += new System.EventHandler(this.buttonExport_Click);
+            // 
+            // buttonImport
+            // 
+            this.buttonImport.Location = new System.Drawing.Point(226, 487);
+            this.buttonImport.Name = "buttonImport";
+            this.buttonImport.Size = new System.Drawing.Size(65, 25);
+            this.buttonImport.TabIndex = 30;
+            this.buttonImport.Text = "&Import";
+            this.buttonImport.UseVisualStyleBackColor = true;
+            this.buttonImport.Click += new System.EventHandler(this.buttonImport_Click);
+            // 
+            // buttonDupe
+            // 
+            this.buttonDupe.Location = new System.Drawing.Point(226, 456);
+            this.buttonDupe.Name = "buttonDupe";
+            this.buttonDupe.Size = new System.Drawing.Size(65, 25);
+            this.buttonDupe.TabIndex = 29;
+            this.buttonDupe.Text = "Du&pe";
+            this.buttonDupe.UseVisualStyleBackColor = true;
+            this.buttonDupe.Click += new System.EventHandler(this.buttonDupe_Click);
+            // 
+            // buttonClear
+            // 
+            this.buttonClear.Location = new System.Drawing.Point(297, 456);
+            this.buttonClear.Name = "buttonClear";
+            this.buttonClear.Size = new System.Drawing.Size(65, 25);
+            this.buttonClear.TabIndex = 28;
+            this.buttonClear.Text = "&Clear";
+            this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
+            // 
+            // buttonDelete
+            // 
+            this.buttonDelete.Location = new System.Drawing.Point(153, 456);
+            this.buttonDelete.Name = "buttonDelete";
+            this.buttonDelete.Size = new System.Drawing.Size(65, 25);
+            this.buttonDelete.TabIndex = 27;
+            this.buttonDelete.Text = "&Delete";
+            this.buttonDelete.UseVisualStyleBackColor = true;
+            this.buttonDelete.Click += new System.EventHandler(this.buttonDelete_Click);
+            // 
+            // buttonUpdate
+            // 
+            this.buttonUpdate.Location = new System.Drawing.Point(82, 456);
+            this.buttonUpdate.Name = "buttonUpdate";
+            this.buttonUpdate.Size = new System.Drawing.Size(65, 25);
+            this.buttonUpdate.TabIndex = 26;
+            this.buttonUpdate.Text = "&Update";
+            this.buttonUpdate.UseVisualStyleBackColor = true;
+            this.buttonUpdate.Click += new System.EventHandler(this.buttonUpdate_Click);
+            // 
+            // buttonAdd
+            // 
+            this.buttonAdd.Location = new System.Drawing.Point(11, 456);
+            this.buttonAdd.Name = "buttonAdd";
+            this.buttonAdd.Size = new System.Drawing.Size(65, 25);
+            this.buttonAdd.TabIndex = 25;
+            this.buttonAdd.Text = "&Add";
+            this.buttonAdd.UseVisualStyleBackColor = true;
+            this.buttonAdd.Click += new System.EventHandler(this.buttonAdd_Click);
+            // 
+            // textBoxFirstName
+            // 
+            this.textBoxFirstName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBoxFirstName.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxFirstName.Location = new System.Drawing.Point(121, 49);
+            this.textBoxFirstName.Name = "textBoxFirstName";
+            this.textBoxFirstName.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.textBoxFirstName.Size = new System.Drawing.Size(241, 22);
+            this.textBoxFirstName.TabIndex = 1;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label2.Location = new System.Drawing.Point(9, 51);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(106, 17);
+            this.label2.TabIndex = 6;
+            this.label2.Text = "Approval Code: ";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label1.Location = new System.Drawing.Point(44, 24);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(71, 17);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "Customer: ";
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.BackColor = System.Drawing.Color.White;
+            this.groupBox1.Controls.Add(this.dataGridViewInv);
+            this.groupBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupBox1.ForeColor = System.Drawing.Color.Black;
+            this.groupBox1.Location = new System.Drawing.Point(0, 0);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(638, 545);
+            this.groupBox1.TabIndex = 16;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Invoices";
+            // 
+            // dataGridViewInv
+            // 
+            this.dataGridViewInv.AllowUserToAddRows = false;
+            this.dataGridViewInv.AllowUserToDeleteRows = false;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.dataGridViewInv.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            this.dataGridViewInv.BackgroundColor = System.Drawing.Color.White;
+            this.dataGridViewInv.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Century Gothic", 9F);
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.ActiveCaption;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridViewInv.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            this.dataGridViewInv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewInv.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.CustomerId,
+            this.UserId,
+            this.CustomerCode,
+            this.FirstName,
+            this.LastName,
+            this.EnteredBy});
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Century Gothic", 9F);
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.ActiveCaption;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridViewInv.DefaultCellStyle = dataGridViewCellStyle3;
+            this.dataGridViewInv.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dataGridViewInv.GridColor = System.Drawing.SystemColors.Control;
+            this.dataGridViewInv.Location = new System.Drawing.Point(3, 18);
+            this.dataGridViewInv.MultiSelect = false;
+            this.dataGridViewInv.Name = "dataGridViewInv";
+            this.dataGridViewInv.RowHeadersVisible = false;
+            this.dataGridViewInv.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dataGridViewInv.Size = new System.Drawing.Size(632, 524);
+            this.dataGridViewInv.TabIndex = 42;
+            this.dataGridViewInv.TabStop = false;
+            this.dataGridViewInv.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewInv_CellClick);
+            // 
+            // CustomerId
+            // 
+            this.CustomerId.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.CustomerId.DataPropertyName = "CustomerId";
+            this.CustomerId.HeaderText = "Customer Id";
+            this.CustomerId.Name = "CustomerId";
+            this.CustomerId.ReadOnly = true;
+            this.CustomerId.Visible = false;
+            // 
+            // UserId
+            // 
+            this.UserId.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.UserId.DataPropertyName = "UserId";
+            this.UserId.HeaderText = "User Id";
+            this.UserId.Name = "UserId";
+            this.UserId.ReadOnly = true;
+            this.UserId.Width = 72;
+            // 
+            // CustomerCode
+            // 
+            this.CustomerCode.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.CustomerCode.DataPropertyName = "CustomerCode";
+            this.CustomerCode.HeaderText = "Customer Code";
+            this.CustomerCode.Name = "CustomerCode";
+            this.CustomerCode.ReadOnly = true;
+            this.CustomerCode.Width = 126;
+            // 
+            // FirstName
+            // 
+            this.FirstName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.FirstName.DataPropertyName = "FirstName";
+            this.FirstName.HeaderText = "First Name";
+            this.FirstName.Name = "FirstName";
+            this.FirstName.ReadOnly = true;
+            this.FirstName.Width = 95;
+            // 
+            // LastName
+            // 
+            this.LastName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.LastName.DataPropertyName = "LastName";
+            this.LastName.HeaderText = "Last Name";
+            this.LastName.Name = "LastName";
+            this.LastName.ReadOnly = true;
+            this.LastName.Width = 96;
+            // 
+            // EnteredBy
+            // 
+            this.EnteredBy.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.EnteredBy.DataPropertyName = "EnteredBy";
+            this.EnteredBy.HeaderText = "Entered By";
+            this.EnteredBy.Name = "EnteredBy";
+            this.EnteredBy.ReadOnly = true;
+            this.EnteredBy.Width = 95;
+            // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.Filter = "Microsoft Access Database (*.mdb)|*.mdb|All Files (*.*)|*.*";
+            this.openFileDialog1.Title = "Import Database";
+            // 
+            // saveFileDialog1
+            // 
+            this.saveFileDialog1.Filter = "Microsoft Access Database (*.mdb)|*.mdb|All Files (*.*)|*.*";
+            this.saveFileDialog1.Title = "Export Database";
+            // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
+            // InvoiceDetails
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(1014, 621);
+            this.Controls.Add(this.splitContainer1);
+            this.Controls.Add(this.statusStrip1);
+            this.Controls.Add(this.toolStrip1);
+            this.Controls.Add(this.menuStrip1);
+            this.Font = new System.Drawing.Font("Century Gothic", 9F);
+            this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.MinimumSize = new System.Drawing.Size(1030, 660);
+            this.Name = "InvoiceDetails";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "iHealthAccounts [Invoices]";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.CustomerMaster_Load);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
+            this.toolStrip1.ResumeLayout(false);
+            this.toolStrip1.PerformLayout();
+            this.statusStrip1.ResumeLayout(false);
+            this.statusStrip1.PerformLayout();
+            this.splitContainer1.Panel1.ResumeLayout(false);
+            this.splitContainer1.Panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
+            this.splitContainer1.ResumeLayout(false);
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
+            this.groupBox4.ResumeLayout(false);
+            this.groupBox4.PerformLayout();
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
+            this.groupBox1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewInv)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem importToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem exportToolStripMenuItem;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
+        private System.Windows.Forms.ToolStripMenuItem settingsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
+        private System.Windows.Forms.ToolStripMenuItem editToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem usersToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem profileToolStripMenuItem;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator4;
+        private System.Windows.Forms.ToolStripMenuItem invoiceToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem reciptToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem reciptWalkInToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem expenseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem windowToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem helpToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem aboutAppToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem supportToolStripMenuItem;
+        private System.Windows.Forms.ToolStrip toolStrip1;
+        private System.Windows.Forms.StatusStrip statusStrip1;
+        private System.Windows.Forms.SplitContainer splitContainer1;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.TextBox textBoxFirstName;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.DataGridView dataGridViewInv;
+        private System.Windows.Forms.Button buttonAdd;
+        private System.Windows.Forms.Button buttonDelete;
+        private System.Windows.Forms.Button buttonUpdate;
+        private System.Windows.Forms.Button buttonClear;
+        private System.Windows.Forms.Button buttonExport;
+        private System.Windows.Forms.Button buttonImport;
+        private System.Windows.Forms.Button buttonDupe;
+        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabelLoginDate;
+        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabelDate;
+        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabelUserName;
+        private System.Windows.Forms.ToolStripButton toolStripButton1;
+        private System.Windows.Forms.ToolStripButton toolStripButton2;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator6;
+        private System.Windows.Forms.ToolStripButton toolStripButton3;
+        private System.Windows.Forms.ToolStripButton toolStripButton4;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator7;
+        private System.Windows.Forms.ToolStripButton toolStripButton5;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.ToolStripStatusLabel labelMessage;
+        private System.Windows.Forms.SaveFileDialog saveFileDialog1;
+        private System.Windows.Forms.ToolStripMenuItem closeToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem procedureToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem customerToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem expenseTypeToolStripMenuItem;
+        private System.Windows.Forms.ToolStripButton toolStripButton6;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
+        private System.Windows.Forms.ToolStripMenuItem paymentToolStripMenuItem;
+        private System.Windows.Forms.DataGridViewTextBoxColumn CustomerId;
+        private System.Windows.Forms.DataGridViewTextBoxColumn UserId;
+        private System.Windows.Forms.DataGridViewTextBoxColumn CustomerCode;
+        private System.Windows.Forms.DataGridViewTextBoxColumn FirstName;
+        private System.Windows.Forms.DataGridViewTextBoxColumn LastName;
+        private System.Windows.Forms.DataGridViewTextBoxColumn EnteredBy;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.GroupBox groupBox4;
+        private System.Windows.Forms.TextBox textBoxAmt10;
+        private System.Windows.Forms.TextBox textBoxAmt9;
+        private System.Windows.Forms.TextBox textBoxAmt8;
+        private System.Windows.Forms.TextBox textBoxAmt7;
+        private System.Windows.Forms.TextBox textBoxAmt6;
+        private System.Windows.Forms.TextBox textBoxAmt5;
+        private System.Windows.Forms.TextBox textBoxAmt4;
+        private System.Windows.Forms.TextBox textBoxAmt3;
+        private System.Windows.Forms.TextBox textBoxAmt2;
+        private System.Windows.Forms.TextBox textBoxAmt1;
+        private System.Windows.Forms.TextBox textBoxProc10;
+        private System.Windows.Forms.TextBox textBoxProc9;
+        private System.Windows.Forms.TextBox textBoxProc8;
+        private System.Windows.Forms.TextBox textBoxProc7;
+        private System.Windows.Forms.TextBox textBoxProc6;
+        private System.Windows.Forms.TextBox textBoxProc5;
+        private System.Windows.Forms.TextBox textBoxProc4;
+        private System.Windows.Forms.TextBox textBoxProc3;
+        private System.Windows.Forms.TextBox textBoxProc2;
+        private System.Windows.Forms.TextBox textBoxProc1;
+        private System.Windows.Forms.DateTimePicker dateTimePicker2;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label3;
+
+
+    }
+}

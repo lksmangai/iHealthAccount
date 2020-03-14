@@ -1,0 +1,8 @@
+C:\gloStream\erp\HealthAccount\AccountPlus.Formatting\bin\x86\Release\HealthAccount.Formatting.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Formatting\bin\x86\Release\HealthAccount.Formatting.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.Formatting\obj\x86\Release\HealthAccount.Formatting.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Formatting\obj\x86\Release\HealthAccount.Formatting.pdb
+C:\gloStream\erp\HealthAccount\HealthAccount.Formatting\bin\x86\Release\HealthAccount.Formatting.dll
+C:\gloStream\erp\HealthAccount\HealthAccount.Formatting\bin\x86\Release\HealthAccount.Formatting.pdb
+C:\gloStream\erp\HealthAccount\HealthAccount.Formatting\obj\x86\Release\HealthAccount.Formatting.dll
+C:\gloStream\erp\HealthAccount\HealthAccount.Formatting\obj\x86\Release\HealthAccount.Formatting.pdb

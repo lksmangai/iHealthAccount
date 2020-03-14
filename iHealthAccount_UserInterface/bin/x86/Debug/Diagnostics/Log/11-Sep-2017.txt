@@ -1,0 +1,21 @@
+2017-09-11 06:19:22,752 
+************************************************************
+Username : admin
+Date & Time : 9/11/2017 6:19:22 AM
+************************************************************
+
+Exception: System.ArgumentNullException
+Message: Value cannot be null.
+Parameter name: The string which needs to be decrypted can not be null.
+Source: iHealthAccount.BusinessLogic
+   at iHealthAccount.BusinessLogic.DataSecurity.Decrypt(String cryptedString) in C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\DataSecurity.cs:line 47
+   at iHealthAccount.UI.NewUser.GRID_VIEW_USER_DETAILS_CellClick(Object sender, DataGridViewCellEventArgs e) in C:\gloStream\erp\iHealthAccount\iHealthAccount.UserInterface\NewUser.cs:line 234
+   at System.Windows.Forms.DataGridView.OnCellClick(DataGridViewCellEventArgs e)
+   at System.Windows.Forms.DataGridView.OnMouseClick(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.DataGridView.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+

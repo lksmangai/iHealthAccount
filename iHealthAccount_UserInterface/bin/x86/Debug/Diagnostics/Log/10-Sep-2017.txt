@@ -1,0 +1,139 @@
+2017-09-10 11:15:58,767 
+************************************************************
+Username : admin
+Date & Time : 9/10/2017 11:15:58 AM
+************************************************************
+
+Exception: System.NullReferenceException
+Message: Object reference not set to an instance of an object.
+Source: iHealthAccount.UI
+   at iHealthAccount.UI.Home.GRID_VIEW_EXPENSE_DETAILS_CellClick(Object sender, DataGridViewCellEventArgs e) in C:\gloStream\erp\iHealthAccount\iHealthAccount.UserInterface\Home.cs:line 493
+   at System.Windows.Forms.DataGridView.OnCellClick(DataGridViewCellEventArgs e)
+   at System.Windows.Forms.DataGridView.OnMouseClick(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.DataGridView.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+2017-09-10 11:24:41,204 
+************************************************************
+Username : admin
+Date & Time : 9/10/2017 11:24:41 AM
+************************************************************
+
+Exception: System.NullReferenceException
+Message: Object reference not set to an instance of an object.
+Source: iHealthAccount.UI
+   at iHealthAccount.UI.Home.GRID_VIEW_EXPENSE_DETAILS_CellClick(Object sender, DataGridViewCellEventArgs e) in C:\gloStream\erp\iHealthAccount\iHealthAccount.UserInterface\Home.cs:line 493
+   at System.Windows.Forms.DataGridView.OnCellClick(DataGridViewCellEventArgs e)
+   at System.Windows.Forms.DataGridView.OnMouseClick(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.DataGridView.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+2017-09-10 14:22:38,681 
+************************************************************
+Username : provider
+Date & Time : 9/10/2017 2:22:38 PM
+************************************************************
+
+Exception: System.ArgumentOutOfRangeException
+Message: Non-negative number required.
+Parameter name: count
+Source: mscorlib
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.RemoveRange(Int32 index, Int32 count)
+   at iHealthAccount.DataAccess.DBParameterCollection.RemoveAll() in C:\gloStream\erp\iHealthAccount\iHealthAccount.DataAccess\DBParameterCollection.cs:line 35
+   at iHealthAccount.BusinessLogic.Procedure.UpdateProcId(String procCode, String procName) in C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\Procedure.cs:line 65
+   at iHealthAccount.UI.ProcedureMaster.AddProcedure(String procCode, String expDesc, String expAmount, Int32 expBy, String expDate) in C:\gloStream\erp\iHealthAccount\iHealthAccount.UserInterface\ProcedureMaster.cs:line 169
+   at iHealthAccount.UI.ProcedureMaster.btnAdd_Click(Object sender, EventArgs e) in C:\gloStream\erp\iHealthAccount\iHealthAccount.UserInterface\ProcedureMaster.cs:line 158
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+2017-09-10 19:31:35,866 
+************************************************************
+Username : provider
+Date & Time : 9/10/2017 7:31:35 PM
+************************************************************
+
+Exception: System.Data.OleDb.OleDbException
+Message: No value given for one or more required parameters.
+Source: Microsoft Access Database Engine
+   at iHealthAccount.DataAccess.DBHelper.ExecuteDataTable(String commandText, String tableName, DBParameterCollection paramCollection, CommandType commandType) in C:\gloStream\erp\iHealthAccount\iHealthAccount.DataAccess\DBHelper.cs:line 458
+   at iHealthAccount.DataAccess.DBHelper.ExecuteDataTable(String commandText, String tableName, CommandType commandType) in C:\gloStream\erp\iHealthAccount\iHealthAccount.DataAccess\DBHelper.cs:line 565
+   at iHealthAccount.DataAccess.DBHelper.ExecuteDataTable(String commandText) in C:\gloStream\erp\iHealthAccount\iHealthAccount.DataAccess\DBHelper.cs:line 597
+   at iHealthAccount.BusinessLogic.Procedure.UpdateProcId(String procCode, String procName)
+   at iHealthAccount.UI.ProcedureMaster.AddProcedure(String procCode, String expDesc, String expAmount, Int32 expBy, String expDate) in C:\gloStream\erp\iHealthAccount\iHealthAccount.UserInterface\ProcedureMaster.cs:line 169
+   at iHealthAccount.UI.ProcedureMaster.btnAdd_Click(Object sender, EventArgs e) in C:\gloStream\erp\iHealthAccount\iHealthAccount.UserInterface\ProcedureMaster.cs:line 158
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+2017-09-10 19:36:20,034 
+************************************************************
+Username : provider
+Date & Time : 9/10/2017 7:36:20 PM
+************************************************************
+
+Exception: System.Data.OleDb.OleDbException
+Message: No value given for one or more required parameters.
+Source: Microsoft Access Database Engine
+   at iHealthAccount.DataAccess.DBHelper.ExecuteDataTable(String commandText, String tableName, DBParameterCollection paramCollection, CommandType commandType) in C:\gloStream\erp\iHealthAccount\iHealthAccount.DataAccess\DBHelper.cs:line 458
+   at iHealthAccount.DataAccess.DBHelper.ExecuteDataTable(String commandText, String tableName, CommandType commandType) in C:\gloStream\erp\iHealthAccount\iHealthAccount.DataAccess\DBHelper.cs:line 565
+   at iHealthAccount.DataAccess.DBHelper.ExecuteDataTable(String commandText) in C:\gloStream\erp\iHealthAccount\iHealthAccount.DataAccess\DBHelper.cs:line 597
+   at iHealthAccount.BusinessLogic.Procedure.UpdateProcId(String procCode, String procName)
+   at iHealthAccount.UI.ProcedureMaster.AddProcedure(String procCode, String expDesc, String expAmount, Int32 expBy, String expDate) in C:\gloStream\erp\iHealthAccount\iHealthAccount.UserInterface\ProcedureMaster.cs:line 169
+   at iHealthAccount.UI.ProcedureMaster.btnAdd_Click(Object sender, EventArgs e) in C:\gloStream\erp\iHealthAccount\iHealthAccount.UserInterface\ProcedureMaster.cs:line 158
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+2017-09-10 19:42:57,776 
+************************************************************
+Username : provider
+Date & Time : 9/10/2017 7:42:57 PM
+************************************************************
+
+Exception: System.ArgumentOutOfRangeException
+Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Source: mscorlib
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewSelectedRowCollection.get_Item(Int32 index)
+   at iHealthAccount.UI.ProcedureMaster.GRID_VIEW_EXPENSE_DETAILS_CellClick(Object sender, DataGridViewCellEventArgs e) in C:\gloStream\erp\iHealthAccount\iHealthAccount.UserInterface\ProcedureMaster.cs:line 468
+   at System.Windows.Forms.DataGridView.OnCellClick(DataGridViewCellEventArgs e)
+   at System.Windows.Forms.DataGridView.OnMouseClick(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.DataGridView.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+

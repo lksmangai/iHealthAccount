@@ -1,0 +1,8 @@
+C:\gloStream\erp\HealthAccount\AccountPlus.DataAccess\bin\x86\Release\HealthAccount.DataAccess.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.DataAccess\bin\x86\Release\HealthAccount.DataAccess.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.DataAccess\obj\x86\Release\HealthAccount.DataAccess.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.DataAccess\obj\x86\Release\HealthAccount.DataAccess.pdb
+C:\gloStream\erp\HealthAccount\HealthAccount.DataAccess\bin\x86\Release\HealthAccount.DataAccess.dll
+C:\gloStream\erp\HealthAccount\HealthAccount.DataAccess\bin\x86\Release\HealthAccount.DataAccess.pdb
+C:\gloStream\erp\HealthAccount\HealthAccount.DataAccess\obj\x86\Release\HealthAccount.DataAccess.dll
+C:\gloStream\erp\HealthAccount\HealthAccount.DataAccess\obj\x86\Release\HealthAccount.DataAccess.pdb

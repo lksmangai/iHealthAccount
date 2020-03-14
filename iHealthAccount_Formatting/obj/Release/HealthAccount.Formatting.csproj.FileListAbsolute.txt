@@ -1,0 +1,4 @@
+C:\gloStream\erp\HealthAccount\AccountPlus.Formatting\bin\Release\HealthAccount.Formatting.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Formatting\bin\Release\HealthAccount.Formatting.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.Formatting\obj\Release\HealthAccount.Formatting.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Formatting\obj\Release\HealthAccount.Formatting.pdb

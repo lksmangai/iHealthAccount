@@ -1,0 +1,14 @@
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\bin\x86\Release\HealthAccount.Configurations.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\bin\x86\Release\HealthAccount.Configurations.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\bin\x86\Release\HealthAccount.Formatting.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\bin\x86\Release\HealthAccount.Formatting.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\obj\x86\Release\HealthAccount.Configurations.csprojResolveAssemblyReference.cache
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\obj\x86\Release\HealthAccount.Configurations.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\obj\x86\Release\HealthAccount.Configurations.pdb
+C:\gloStream\erp\HealthAccount\HealthAccount.Configurations\bin\x86\Release\HealthAccount.Configurations.dll
+C:\gloStream\erp\HealthAccount\HealthAccount.Configurations\bin\x86\Release\HealthAccount.Configurations.pdb
+C:\gloStream\erp\HealthAccount\HealthAccount.Configurations\bin\x86\Release\HealthAccount.Formatting.dll
+C:\gloStream\erp\HealthAccount\HealthAccount.Configurations\bin\x86\Release\HealthAccount.Formatting.pdb
+C:\gloStream\erp\HealthAccount\HealthAccount.Configurations\obj\x86\Release\HealthAccount.Configurations.csprojResolveAssemblyReference.cache
+C:\gloStream\erp\HealthAccount\HealthAccount.Configurations\obj\x86\Release\HealthAccount.Configurations.dll
+C:\gloStream\erp\HealthAccount\HealthAccount.Configurations\obj\x86\Release\HealthAccount.Configurations.pdb

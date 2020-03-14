@@ -1,0 +1,5 @@
+C:\gloStream\erp\iHealthAccount\CustomActions\bin\Release\CustomActions.exe
+C:\gloStream\erp\iHealthAccount\CustomActions\bin\Release\CustomActions.pdb
+C:\gloStream\erp\iHealthAccount\CustomActions\obj\x86\Release\CustomActions.exe
+C:\gloStream\erp\iHealthAccount\CustomActions\obj\x86\Release\CustomActions.pdb
+C:\gloStream\erp\iHealthAccount\CustomActions\obj\x86\Release\CustomActions.csprojResolveAssemblyReference.cache

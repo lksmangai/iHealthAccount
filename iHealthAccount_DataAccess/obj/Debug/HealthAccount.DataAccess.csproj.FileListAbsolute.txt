@@ -1,0 +1,4 @@
+C:\gloStream\erp\HealthAccount\AccountPlus.DataAccess\bin\Debug\HealthAccount.DataAccess.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.DataAccess\bin\Debug\HealthAccount.DataAccess.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.DataAccess\obj\Debug\HealthAccount.DataAccess.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.DataAccess\obj\Debug\HealthAccount.DataAccess.pdb

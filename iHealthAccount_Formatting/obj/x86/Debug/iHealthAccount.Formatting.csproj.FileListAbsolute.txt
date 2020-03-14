@@ -1,0 +1,4 @@
+C:\gloStream\erp\iHealthAccount\iHealthAccount.Formatting\bin\x86\Debug\iHealthAccount.Formatting.dll
+C:\gloStream\erp\iHealthAccount\iHealthAccount.Formatting\bin\x86\Debug\iHealthAccount.Formatting.pdb
+C:\gloStream\erp\iHealthAccount\iHealthAccount.Formatting\obj\x86\Debug\iHealthAccount.Formatting.dll
+C:\gloStream\erp\iHealthAccount\iHealthAccount.Formatting\obj\x86\Debug\iHealthAccount.Formatting.pdb

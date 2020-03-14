@@ -1,0 +1,4 @@
+C:\gloStream\erp\iHealthAccount\iHealthAccount.DataAccess\bin\x86\Release\iHealthAccount.DataAccess.dll
+C:\gloStream\erp\iHealthAccount\iHealthAccount.DataAccess\bin\x86\Release\iHealthAccount.DataAccess.pdb
+C:\gloStream\erp\iHealthAccount\iHealthAccount.DataAccess\obj\x86\Release\iHealthAccount.DataAccess.dll
+C:\gloStream\erp\iHealthAccount\iHealthAccount.DataAccess\obj\x86\Release\iHealthAccount.DataAccess.pdb

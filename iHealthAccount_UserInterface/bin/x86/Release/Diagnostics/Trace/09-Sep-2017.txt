@@ -1,0 +1,14 @@
+2017-09-09 09:14:47,765 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/9/2017 9:14:47 AM
+Username : 
+
+2017-09-09 10:01:30,202 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/9/2017 10:01:30 AM
+Username : 
+

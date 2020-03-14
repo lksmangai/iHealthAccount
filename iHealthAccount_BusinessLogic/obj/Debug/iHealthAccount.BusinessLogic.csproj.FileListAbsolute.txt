@@ -1,0 +1,12 @@
+C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\bin\Debug\HealthAccount.BusinessLogic.dll
+C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\bin\Debug\HealthAccount.BusinessLogic.pdb
+C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\bin\Debug\HealthAccount.Configurations.dll
+C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\bin\Debug\HealthAccount.DataAccess.dll
+C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\bin\Debug\HealthAccount.Formatting.dll
+C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\bin\Debug\log4net.dll
+C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\bin\Debug\HealthAccount.Configurations.pdb
+C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\bin\Debug\HealthAccount.DataAccess.pdb
+C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\bin\Debug\HealthAccount.Formatting.pdb
+C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\obj\Debug\iHealthAccount.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\obj\Debug\HealthAccount.BusinessLogic.dll
+C:\gloStream\erp\iHealthAccount\iHealthAccount.BusinessLogic\obj\Debug\HealthAccount.BusinessLogic.pdb

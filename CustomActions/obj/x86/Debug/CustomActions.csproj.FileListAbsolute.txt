@@ -1,0 +1,8 @@
+C:\gloStream\erp\iHealthAccount\CustomActions\bin\Debug\CustomActions.exe
+C:\gloStream\erp\iHealthAccount\CustomActions\bin\Debug\CustomActions.pdb
+C:\gloStream\erp\iHealthAccount\CustomActions\obj\x86\Debug\CustomActions.exe
+C:\gloStream\erp\iHealthAccount\CustomActions\obj\x86\Debug\CustomActions.pdb
+C:\gloStream\ih\iHealthAccount\CustomActions\bin\Debug\CustomActions.exe
+C:\gloStream\ih\iHealthAccount\CustomActions\bin\Debug\CustomActions.pdb
+C:\gloStream\ih\iHealthAccount\CustomActions\obj\x86\Debug\CustomActions.exe
+C:\gloStream\ih\iHealthAccount\CustomActions\obj\x86\Debug\CustomActions.pdb

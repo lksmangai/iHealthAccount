@@ -1,0 +1,11 @@
+C:\gloStream\erp\HealthAccount\AccountPlus.Messaging\bin\Debug\HealthAccount.Messaging.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Messaging\bin\Debug\HealthAccount.Messaging.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.Messaging\bin\Debug\HealthAccount.Configurations.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Messaging\bin\Debug\HealthAccount.Formatting.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Messaging\bin\Debug\HealthAccount.Configurations.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.Messaging\bin\Debug\HealthAccount.Formatting.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.Messaging\obj\Debug\HealthAccount.Messaging.csprojResolveAssemblyReference.cache
+C:\gloStream\erp\HealthAccount\AccountPlus.Messaging\obj\Debug\HealthAccount.Messaging.MessageResource.resources
+C:\gloStream\erp\HealthAccount\AccountPlus.Messaging\obj\Debug\HealthAccount.Messaging.csproj.GenerateResource.Cache
+C:\gloStream\erp\HealthAccount\AccountPlus.Messaging\obj\Debug\HealthAccount.Messaging.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Messaging\obj\Debug\HealthAccount.Messaging.pdb

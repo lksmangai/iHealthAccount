@@ -1,0 +1,7 @@
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\bin\Release\HealthAccount.Configurations.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\bin\Release\HealthAccount.Configurations.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\bin\Release\HealthAccount.Formatting.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\bin\Release\HealthAccount.Formatting.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\obj\Release\HealthAccount.Configurations.csprojResolveAssemblyReference.cache
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\obj\Release\HealthAccount.Configurations.dll
+C:\gloStream\erp\HealthAccount\AccountPlus.Configurations\obj\Release\HealthAccount.Configurations.pdb

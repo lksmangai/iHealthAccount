@@ -1,0 +1,387 @@
+2017-09-12 06:14:17,140 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:14:17 AM
+Username : 
+
+2017-09-12 06:16:39,081 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : False
+Start Time : 9/12/2017 6:16:39 AM
+Username : 
+
+2017-09-12 06:24:27,529 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:24:27 AM
+Username : 
+
+2017-09-12 06:38:50,422 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:38:50 AM
+Username : 
+
+2017-09-12 16:28:55,107 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : False
+Start Time : 9/12/2017 4:28:55 PM
+Username : 
+
+2017-09-12 16:29:24,639 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 4:29:24 PM
+Username : 
+
+2017-09-12 16:35:53,645 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 4:35:53 PM
+Username : 
+
+2017-09-12 16:40:23,330 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 4:40:23 PM
+Username : 
+
+2017-09-12 16:42:10,928 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 4:42:10 PM
+Username : 
+
+2017-09-12 16:42:40,914 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 4:42:40 PM
+Username : 
+
+2017-09-12 16:44:03,699 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 4:44:03 PM
+Username : 
+
+2017-09-12 16:44:27,294 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : False
+Start Time : 9/12/2017 4:44:27 PM
+Username : 
+
+2017-09-12 16:44:39,903 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 4:44:39 PM
+Username : 
+
+2017-09-12 16:57:42,609 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 4:57:42 PM
+Username : 
+
+2017-09-12 17:02:46,272 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 5:02:46 PM
+Username : 
+
+2017-09-12 17:16:28,165 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 5:16:28 PM
+Username : 
+
+2017-09-12 17:19:19,303 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 5:19:19 PM
+Username : 
+
+2017-09-12 17:25:39,273 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 5:25:39 PM
+Username : 
+
+2017-09-12 17:30:51,698 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 5:30:51 PM
+Username : 
+
+2017-09-12 17:39:03,889 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 5:39:03 PM
+Username : 
+
+2017-09-12 17:52:57,951 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 5:52:57 PM
+Username : 
+
+2017-09-12 17:58:19,591 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 5:58:19 PM
+Username : 
+
+2017-09-12 18:01:47,205 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:01:47 PM
+Username : 
+
+2017-09-12 18:04:18,670 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:04:18 PM
+Username : 
+
+2017-09-12 18:05:42,194 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:05:42 PM
+Username : 
+
+2017-09-12 18:12:14,377 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:12:14 PM
+Username : 
+
+2017-09-12 18:15:30,769 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:15:30 PM
+Username : 
+
+2017-09-12 18:44:40,001 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:44:40 PM
+Username : 
+
+2017-09-12 18:45:46,962 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:45:46 PM
+Username : 
+
+2017-09-12 18:47:13,144 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:47:13 PM
+Username : 
+
+2017-09-12 18:50:43,319 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:50:43 PM
+Username : 
+
+2017-09-12 18:53:20,401 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 6:53:20 PM
+Username : 
+
+2017-09-12 18:54:41,911 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 6:54:41 PM
+Username : 
+
+2017-09-12 19:07:00,747 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 7:07:00 PM
+Username : 
+
+2017-09-12 19:09:53,217 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 7:09:53 PM
+Username : 
+
+2017-09-12 19:14:48,118 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 7:14:48 PM
+Username : 
+
+2017-09-12 19:18:57,639 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 7:18:57 PM
+Username : 
+
+2017-09-12 19:22:19,059 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 7:22:19 PM
+Username : 
+
+2017-09-12 20:27:07,884 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 8:27:07 PM
+Username : 
+
+2017-09-12 20:42:35,319 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 8:42:35 PM
+Username : 
+
+2017-09-12 20:44:55,325 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 8:44:55 PM
+Username : 
+
+2017-09-12 21:27:49,263 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 9:27:49 PM
+Username : 
+
+2017-09-12 21:33:17,505 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 9:33:17 PM
+Username : 
+
+2017-09-12 21:39:18,483 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 9:39:18 PM
+Username : 
+
+2017-09-12 21:42:54,431 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 9:42:54 PM
+Username : 
+
+2017-09-12 21:47:39,881 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 9:47:39 PM
+Username : 
+
+2017-09-12 21:49:32,164 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 9:49:32 PM
+Username : 
+
+2017-09-12 21:50:52,366 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 9:50:52 PM
+Username : 
+
+2017-09-12 21:53:36,685 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : False
+Start Time : 9/12/2017 9:53:36 PM
+Username : 
+
+2017-09-12 21:55:06,892 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 9:55:06 PM
+Username : 
+
+2017-09-12 22:33:37,230 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 10:33:37 PM
+Username : 
+
+2017-09-12 22:37:43,429 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 9/12/2017 10:37:43 PM
+Username : 
+
+2017-09-12 22:40:47,567 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 10:40:47 PM
+Username : 
+
+2017-09-12 22:41:22,893 
+Screen/Form Name : Home [Add new Expense]
+Method/ Action/ Routine Invoked : User : provider
+Item Id : 3
+Description : General house hold item edited.
+Price : 45
+Start Time : 9/12/2017 10:41:22 PM
+Username : provider
+
+2017-09-12 22:49:39,584 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : provider
+Success : True
+Start Time : 9/12/2017 10:49:39 PM
+Username : 
+

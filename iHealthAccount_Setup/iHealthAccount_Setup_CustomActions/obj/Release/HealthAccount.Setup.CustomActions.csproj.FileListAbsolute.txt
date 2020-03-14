@@ -1,0 +1,7 @@
+C:\gloStream\erp\HealthAccount\AccountPlus.Setup\AccountPlus.Setup.CustomActions\bin\Release\HealthAccount.Setup.CustomActions.exe.config
+C:\gloStream\erp\HealthAccount\AccountPlus.Setup\AccountPlus.Setup.CustomActions\bin\Release\HealthAccount.Setup.CustomActions.exe
+C:\gloStream\erp\HealthAccount\AccountPlus.Setup\AccountPlus.Setup.CustomActions\bin\Release\HealthAccount.Setup.CustomActions.pdb
+C:\gloStream\erp\HealthAccount\AccountPlus.Setup\AccountPlus.Setup.CustomActions\obj\Release\HealthAccount.Setup.CustomActions.Properties.Resources.resources
+C:\gloStream\erp\HealthAccount\AccountPlus.Setup\AccountPlus.Setup.CustomActions\obj\Release\HealthAccount.Setup.CustomActions.csproj.GenerateResource.Cache
+C:\gloStream\erp\HealthAccount\AccountPlus.Setup\AccountPlus.Setup.CustomActions\obj\Release\HealthAccount.Setup.CustomActions.exe
+C:\gloStream\erp\HealthAccount\AccountPlus.Setup\AccountPlus.Setup.CustomActions\obj\Release\HealthAccount.Setup.CustomActions.pdb

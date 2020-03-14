@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F8934268-9709-4252-9315-77E280F6A98D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>iHealthAccount.Application</RootNamespace>
+    <AssemblyName>iHealthAccount</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>iHealthAccount.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net">
+      <HintPath>..\..\..\..\Users\Navin Kumar\Documents\Visual Studio 2010\Projects\iHealthAccounts\iHealthAccounts\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\ApplicationDetails.cs" />
+    <Compile Include="Classes\Message.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Classes\Message.designer.cs">
+      <DependentUpon>Message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Details\ExpenseDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Details\ExpenseDetails.designer.cs">
+      <DependentUpon>ExpenseDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Details\InvoiceDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Details\InvoiceDetails.designer.cs">
+      <DependentUpon>InvoiceDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Details\ReciptDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Details\ReciptDetails.designer.cs">
+      <DependentUpon>ReciptDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Details\WalkInDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Details\WalkInDetails.designer.cs">
+      <DependentUpon>WalkInDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AboutApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AboutApp.Designer.cs">
+      <DependentUpon>AboutApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ContactSupport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ContactSupport.Designer.cs">
+      <DependentUpon>ContactSupport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\CustomerMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masters\CustomerMaster.designer.cs">
+      <DependentUpon>CustomerMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ExpenseMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masters\ExpenseMaster.designer.cs">
+      <DependentUpon>ExpenseMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\PaymentMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masters\PaymentMaster.designer.cs">
+      <DependentUpon>PaymentMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ProcedureMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masters\ProcedureMaster.Designer.cs">
+      <DependentUpon>ProcedureMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EditProfile.Designer.cs">
+      <DependentUpon>EditProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EditUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EditUsers.Designer.cs">
+      <DependentUpon>EditUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Classes\Message.resx">
+      <DependentUpon>Message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Details\ExpenseDetails.resx">
+      <DependentUpon>ExpenseDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Details\InvoiceDetails.resx">
+      <DependentUpon>InvoiceDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Details\ReciptDetails.resx">
+      <DependentUpon>ReciptDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Details\WalkInDetails.resx">
+      <DependentUpon>WalkInDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AboutApp.resx">
+      <DependentUpon>AboutApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ContactSupport.resx">
+      <DependentUpon>ContactSupport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masters\CustomerMaster.resx">
+      <DependentUpon>CustomerMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masters\ExpenseMaster.resx">
+      <DependentUpon>ExpenseMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masters\PaymentMaster.resx">
+      <DependentUpon>PaymentMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masters\ProcedureMaster.resx">
+      <DependentUpon>ProcedureMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EditProfile.resx">
+      <DependentUpon>EditProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EditUsers.resx">
+      <DependentUpon>EditUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="iHealthAccount.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Preferences.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\address-book-alt-icon.png" />
+    <None Include="Resources\window-layout-icon.png" />
+    <None Include="Resources\address-book-alt.png" />
+    <None Include="Resources\bubbles-icon.png" />
+    <None Include="Resources\box-in.png" />
+    <None Include="Resources\box-out.png" />
+    <None Include="Resources\iHealthAccount.ico" />
+    <None Include="Resources\cog-icon.png" />
+    <None Include="Resources\pin-icon.png" />
+    <None Include="Resources\post-it-icon.png" />
+    <None Include="Resources\profile-group-icon.png" />
+    <None Include="Resources\money-icon.png" />
+    <None Include="Resources\monitor-icon.png" />
+    <None Include="Resources\notepad-icon.png" />
+    <None Include="Resources\handshake-icon.png" />
+    <Content Include="Resources\profile-icon.png" />
+    <Content Include="Resources\sign-check-icon.png" />
+    <Content Include="Resources\sign-error-icon.png" />
+    <Content Include="Resources\sign-info-icon.png" />
+    <Content Include="Resources\sign-question-icon.png" />
+    <Content Include="Resources\sign-warning-icon.png" />
+    <Content Include="Resources\user-id-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\iHealthAccount.BusinessLogic\iHealthAccount.BusinessLogic.csproj">
+      <Project>{4F04F47A-0984-4C0F-9653-C09AA45A0EE9}</Project>
+      <Name>iHealthAccount.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\iHealthAccount.Configurations\iHealthAccount.Configurations.csproj">
+      <Project>{8219A041-ABF4-4278-8EF9-93C5BF992381}</Project>
+      <Name>iHealthAccount.Configurations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\iHealthAccount.DataAccess\iHealthAccount.DataAccess.csproj">
+      <Project>{AF9E7495-E441-4258-9B5D-28099523AF2B}</Project>
+      <Name>iHealthAccount.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\iHealthAccount.Formatting\iHealthAccount.Formatting.csproj">
+      <Project>{10E357DF-2926-4EC3-87CD-36694F9C4D86}</Project>
+      <Name>iHealthAccount.Formatting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\iHealthAccount.Messaging\iHealthAccount.Messaging.csproj">
+      <Project>{75F15526-289A-4D1F-BF44-01CFA3C48017}</Project>
+      <Name>iHealthAccount.Messaging</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
